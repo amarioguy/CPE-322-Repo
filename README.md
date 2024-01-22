@@ -23,4 +23,4 @@
 
 [EDK2 FDF file specification](https://tianocore-docs.github.io/edk2-FdfSpecification/release-1.28.01/)
 
-![out of context youtube screenshot](comments.jpg)
+![out of context youtube screenshot](comments.png)
