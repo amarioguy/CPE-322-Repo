@@ -19,6 +19,18 @@
 
 `return true`
 
+
+## Lab Checklist
+
+- [x] Lab 1
+- [ ] Lab 2
+- [ ] Lab 3
+- [ ] Lab 4
+- [ ] Lab 5
+- [ ] Lab 6
+- [ ] Lab 7
+- [ ] Lab 8
+
 ---
 
 [EDK2 FDF file specification](https://tianocore-docs.github.io/edk2-FdfSpecification/release-1.28.01/)
