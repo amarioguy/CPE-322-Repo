@@ -1,4 +1,4 @@
-# CPE322 Lab 3
+# CPE322 Lab 5
 
 ## Images
 
