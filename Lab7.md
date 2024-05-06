@@ -10,5 +10,5 @@
 ![lab7_7](Lab7_images/lab7_7.png)
 ![lab7_8](Lab7_images/lab7_8.png)
 ![lab7_9](Lab7_images/lab7_9.png)
-![lab7_10](Lab7_images/lab7_8.png)
-![lab7_11](Lab7_images/lab7_9.png)
+![lab7_10](Lab7_images/lab7_10.png)
+![lab7_11](Lab7_images/lab7_11.png)
