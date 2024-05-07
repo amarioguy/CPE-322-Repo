@@ -17,4 +17,3 @@
 ![lab8_10](Lab8_images/lab8_10.png)
 ![lab8_11](Lab8_images/lab8_11.png)
 ![lab8_12](Lab8_images/lab8_12.png)
-![lab8_13](Lab8_images/lab8_13.png)
