@@ -27,3 +27,5 @@ Could not use the Google Maps API, as it seemed to cost money to use for the 'st
 ![lab4_19](Lab4_images/lab4_19.png)
 ![lab4_20](Lab4_images/lab4_20.png)
 ![lab4_21](Lab4_images/lab4_21.png)
+![lab4_22](Lab4_images/lab4_22.png)
+![lab4_23](Lab4_images/lab4_23.png)
